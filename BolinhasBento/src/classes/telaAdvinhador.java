@@ -39,7 +39,7 @@ public class telaAdvinhador extends javax.swing.JFrame {
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/bento300x180.jpg"))); // NOI18N
 
-        lblFrase.setText("Quantas bolinhas o Bento perdeu?");
+        lblFrase.setText("Quantas bolinhas o cachorro perdeu?");
 
         jLabel3.setText("1 a 5 bolinhas:");
 

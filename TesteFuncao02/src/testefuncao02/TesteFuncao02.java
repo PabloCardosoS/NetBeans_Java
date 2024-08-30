@@ -9,7 +9,7 @@ public class TesteFuncao02 {
 
 static int funcaoSoma(int a, int b) { 
         int s = a + b;                         
-        return s; // boa pratica de programação.. criar uma função que retorna valor e o meu código vai tratar isso
+        return s;
     }
     
     public static void main(String[] args) {

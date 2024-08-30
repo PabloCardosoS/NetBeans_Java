@@ -17,7 +17,7 @@ public class ProgramaPernas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // switch não funciona por intervalo, e só funciona para números inteiros.
+        // switch não funciona por intervalo...
         Scanner tec = new Scanner(System.in);
         System.out.print("Digite a quantidade de pernas: ");
         int perna = tec.nextInt();

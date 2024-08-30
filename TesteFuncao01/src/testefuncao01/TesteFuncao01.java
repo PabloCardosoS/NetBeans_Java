@@ -11,9 +11,9 @@ package testefuncao01;
  */
 public class TesteFuncao01 {
     
-    static void procedimentoSoma(int a, int b) { // método static serve para classe e não instância(objeto)
-        int s = a + b;                          // não posso chamar um procedimento dentro de um metodo static 
-        System.out.println("A soma é " + s);    // se esse procedimento não for static.
+    static void procedimentoSoma(int a, int b) { 
+        int s = a + b;                          
+        System.out.println("A soma é " + s);    
     }
     
     public static void main(String[] args) {
